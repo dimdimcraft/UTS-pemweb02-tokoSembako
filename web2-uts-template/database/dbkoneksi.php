@@ -1,8 +1,5 @@
 <?php 
   $host = 'localhost';
-  // $db = 'db_dima22004si';
-  // $user = 'dima22004si';
-  // $pass = '15510110122004';
   $db = 'dbsembako';
   $user = 'root';
   $pass = '';
